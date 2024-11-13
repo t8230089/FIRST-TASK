@@ -4,5 +4,6 @@ public class Team9 {
         System.out.println("8230031");
         System.out.println(8230134);
         System.out.println("8230025");
+        System.out.println("8230062");
      }
 }
