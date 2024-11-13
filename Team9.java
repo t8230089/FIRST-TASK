@@ -6,5 +6,6 @@ public class Team9 {
 =======
         System.out.println(8230134);
 >>>>>>> a30bd2809a19a42be5784f1218f9260459444f67
+        System.out.println("8230025");
      }
 }
