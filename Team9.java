@@ -4,8 +4,12 @@ public class Team9 {
         System.out.println("8230245");
         System.out.println("8230031");
         System.out.println(8230134);
-        System.out.println("8230025");
         System.out.println("8230062");
+<<<<<<< HEAD
         System.out.println("8230226");
+=======
+        System.out.println("8230001")
+        System.out.println("8230025");
+>>>>>>> refs/remotes/origin/main
      }
 }
